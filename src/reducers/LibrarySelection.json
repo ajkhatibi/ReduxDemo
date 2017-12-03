@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "title": "React",
+        "description": "I've personally built numerous web and mobile apps using react. Apps that include maps, chat, authenication and have worked on react apps for drive sharing apps."
+    },
+    {
+        "id": 1,
+        "title": "React Native",
+        "description": "Because this is mainly associated with react to implement mobile capabilities, most of my knowledge here is similar to that of react. The difference are user interaction such as navigation, scrolling, and user feedback which I am well trained to program."
+    },
+    {
+        "id": 2,
+        "title": "Firebase",
+        "description": "Most of my projects, especially mobile, use firebase for any storing data like login information, real-time data such as chats, and everything else really"
+
+    },
+    {
+        "id": 3,
+        "title": "Axios",
+        "description": "Everyone needs to do some kind of api call. I've used axios for all my react projects because of its ease compared to fetch methods."
+    },
+    {
+        "id": 4,
+        "title": "UI",
+        "description": "Whether its web or on a mobile, I am capable of designing components, screens or pages in any way possible. I do this by either creating my on components or using libraries such as bootstrap, native-base, react-native-elements"
+    }
+]
