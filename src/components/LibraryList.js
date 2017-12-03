@@ -15,15 +15,15 @@ class LibraryList extends Component {
         console.log(library)
         return <ListItem library={library}/>
     }
-    render(){
-        return(
+    render() {
+        return (
             <ListView
                 dataSource={this.dataSource}
                 renderRow={this.renderRows}
             />
         );
-    };
-};
+    }
+}
 
 const mapStateToProps = state => {
     return { libraries: state.LibraryReducer }
